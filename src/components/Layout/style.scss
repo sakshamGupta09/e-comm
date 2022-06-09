@@ -1,0 +1,13 @@
+.layout {
+  &__content {
+    margin-top: 4.5rem;
+    padding: 1rem;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .layout {
+    &__content {
+      padding: 0.25rem;
+    }
+  }
+}
