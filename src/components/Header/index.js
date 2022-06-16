@@ -17,7 +17,7 @@ export default function Header() {
         <Link className="header__link" to="/">
           Home
         </Link>
-        <Link className="header__link" to="/plp">
+        <Link className="header__link" to="/products">
           Products
         </Link>
         <Link className="header__link" to="/login">
